@@ -1,5 +1,7 @@
-# Programing Methology
-this is a part of my project in learing Programing Methology(OOP)
-#I have learnt
--OOP
--Built GUI with JavaFX
+# Programming Methodology
+
+This is a part of my project in learning Programming Methodology (OOP). 
+I have learned:
+- OOP
+- Building GUI with JavaFX
+[You can read the docs in this](docs.)
